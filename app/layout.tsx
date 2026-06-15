@@ -58,6 +58,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         {/* Structured Data – SoftwareApplication */}
+        <meta name="google-site-verification" content="fsuB0os2zhe1ez8vT85opTjmU4nqLdUZA4BLA1qBeTI" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
